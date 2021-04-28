@@ -5,7 +5,7 @@ div{
     
     text-align: left; /*Выравнивание текста в лево*/
     float: left; /*Див в лево для контента с права*/
-    background: rgb(250, 140, 36);
+    background: rgb(84, 235, 227);
     color: rgb(233, 34, 34);
     padding-right: 15px;
 }
@@ -19,28 +19,28 @@ div{
 .btn-up{
     height: 100px;
     text-align: left; /*Выравнивание текста в лево*/
-    background: radial-gradient(#e7f70d, #ff5d12);
+    background: radial-gradient(#0c60ad, #27bbe0);
     
     color: rgb(109, 7, 7); /*Цвет текста*/
     clear: both; /*див с новой строки*/
 }
 .menu{
     color: rgb(233, 34, 34);
-    background: rgb(250, 140, 36);
+    background: rgb(84, 235, 227);
     padding: 10px 0px 10px 0px; /*Отступ внутренний с верху и с низу*/
     margin: 0px 0px 10px 0px; /*Отступ внешний с низу */
 }
 header{
     margin-bottom: 10px;
     text-align: center;
-    background: radial-gradient(#e7f70d, #ff5d12);
+    background: radial-gradient(#0c60ad, #27bbe0);
     
     color: rgb(255, 255, 255);
     font-family: 'Lobster',cursive;;
     padding: 107px 0px 107px 0px;
 }
 .content{
-    background: rgb(197, 255, 37);
+    background: rgb(20, 206, 166);
     color: rgb(0, 0, 0);
     margin-left: 200px;
     text-align: left;
@@ -92,14 +92,14 @@ body{
         display: block; /* Ссылка как блочный элемент */
         padding: 5px; /* Поля вокруг надписи */
         text-decoration: none; /* Подчеркивание у ссылок убираем */
-        color: rgb(141, 15, 15); /* Цвет текста */
+        color: rgb(5, 117, 52); /* Цвет текста */
         border: 1px solid rgb(102, 145, 54);/* Рамка вокруг пунктов меню */
         background-color:  rgba(83, 32, 32, 0.426);; /* Цвет фона */
         border-bottom: none; /* Границу снизу не проводим */
         }
         li a:hover {
         color: rgb(49, 49, 34); /* Цвет текста активного пункта */
-        background-color: #850707; /* Цвет фона активного пункта */
+        background-color: #9dff00; /* Цвет фона активного пункта */
         }
         li:hover ul {
         display: block; /* При выделении пункта курсором мыши отображается
